@@ -1,0 +1,10 @@
+C:\Code\SolidPrinciples\ArdalisRating_ISP\bin\Debug\ArdalisRating_ISP.exe.config
+C:\Code\SolidPrinciples\ArdalisRating_ISP\bin\Debug\ArdalisRating_ISP.exe
+C:\Code\SolidPrinciples\ArdalisRating_ISP\bin\Debug\ArdalisRating_ISP.pdb
+C:\Code\SolidPrinciples\ArdalisRating_ISP\bin\Debug\Newtonsoft.Json.dll
+C:\Code\SolidPrinciples\ArdalisRating_ISP\bin\Debug\Newtonsoft.Json.xml
+C:\Code\SolidPrinciples\ArdalisRating_ISP\obj\Debug\ArdalisRating_ISP.csprojAssemblyReference.cache
+C:\Code\SolidPrinciples\ArdalisRating_ISP\obj\Debug\ArdalisRating_ISP.csproj.CoreCompileInputs.cache
+C:\Code\SolidPrinciples\ArdalisRating_ISP\obj\Debug\ArdalisRating_ISP.csproj.CopyComplete
+C:\Code\SolidPrinciples\ArdalisRating_ISP\obj\Debug\ArdalisRating_ISP.exe
+C:\Code\SolidPrinciples\ArdalisRating_ISP\obj\Debug\ArdalisRating_ISP.pdb

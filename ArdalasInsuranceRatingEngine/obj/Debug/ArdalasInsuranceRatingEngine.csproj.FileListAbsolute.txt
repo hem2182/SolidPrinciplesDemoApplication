@@ -1,0 +1,10 @@
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\bin\Debug\ArdalasInsuranceRatingEngine.exe.config
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\bin\Debug\ArdalasInsuranceRatingEngine.exe
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\bin\Debug\ArdalasInsuranceRatingEngine.pdb
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\obj\Debug\ArdalasInsuranceRatingEngine.csproj.CoreCompileInputs.cache
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\obj\Debug\ArdalasInsuranceRatingEngine.csproj.CopyComplete
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\obj\Debug\ArdalasInsuranceRatingEngine.exe
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\obj\Debug\ArdalasInsuranceRatingEngine.pdb
+C:\Code\SolidPrinciples\ArdalasInsuranceRatingEngine\obj\Debug\ArdalasInsuranceRatingEngine.csprojAssemblyReference.cache

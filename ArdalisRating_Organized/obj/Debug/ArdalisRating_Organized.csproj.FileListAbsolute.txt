@@ -1,0 +1,9 @@
+C:\Code\SolidPrinciples\ArdalisRating_Organized\obj\Debug\ArdalisRating_Organized.csproj.CoreCompileInputs.cache
+C:\Code\SolidPrinciples\ArdalisRating_Organized\bin\Debug\ArdalisRating_Organized.exe.config
+C:\Code\SolidPrinciples\ArdalisRating_Organized\bin\Debug\ArdalisRating_Organized.exe
+C:\Code\SolidPrinciples\ArdalisRating_Organized\bin\Debug\ArdalisRating_Organized.pdb
+C:\Code\SolidPrinciples\ArdalisRating_Organized\bin\Debug\Newtonsoft.Json.dll
+C:\Code\SolidPrinciples\ArdalisRating_Organized\bin\Debug\Newtonsoft.Json.xml
+C:\Code\SolidPrinciples\ArdalisRating_Organized\obj\Debug\ArdalisRating_Organized.csproj.CopyComplete
+C:\Code\SolidPrinciples\ArdalisRating_Organized\obj\Debug\ArdalisRating_Organized.exe
+C:\Code\SolidPrinciples\ArdalisRating_Organized\obj\Debug\ArdalisRating_Organized.pdb

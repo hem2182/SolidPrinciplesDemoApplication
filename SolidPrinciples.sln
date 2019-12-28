@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalasInsuranceRatingEngine", "ArdalasInsuranceRatingEngine\ArdalasInsuranceRatingEngine.csproj", "{6C509049-F936-4E37-AD80-9B4CC590297E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalasInsuranceRatingEngine_SOLID", "ArdalasInsuranceRatingEngine_SOLID\ArdalasInsuranceRatingEngine_SOLID.csproj", "{F535B864-427A-459B-8871-A7580EC6C5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalisRating_ISP", "ArdalisRating_ISP\ArdalisRating_ISP.csproj", "{CBA17CCA-D9E9-438F-AA40-13BDD3E5037D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalisRating_ISP_Applied", "ArdalisRating_ISP_Applied\ArdalisRating_ISP_Applied.csproj", "{8A01BDCB-93E4-466B-BB09-2AC6709891E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalisRating_DIP_Applied", "ArdalisRating_DIP_Applied\ArdalisRating_DIP_Applied.csproj", "{E4CF3F8C-BAE6-4206-A4B7-F6325A6349ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdalisRating_Organized", "ArdalisRating_Organized\ArdalisRating_Organized.csproj", "{D82CD64E-0E46-4719-8665-65767B91465E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C509049-F936-4E37-AD80-9B4CC590297E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C509049-F936-4E37-AD80-9B4CC590297E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C509049-F936-4E37-AD80-9B4CC590297E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C509049-F936-4E37-AD80-9B4CC590297E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F535B864-427A-459B-8871-A7580EC6C5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F535B864-427A-459B-8871-A7580EC6C5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F535B864-427A-459B-8871-A7580EC6C5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F535B864-427A-459B-8871-A7580EC6C5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA17CCA-D9E9-438F-AA40-13BDD3E5037D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA17CCA-D9E9-438F-AA40-13BDD3E5037D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA17CCA-D9E9-438F-AA40-13BDD3E5037D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA17CCA-D9E9-438F-AA40-13BDD3E5037D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A01BDCB-93E4-466B-BB09-2AC6709891E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A01BDCB-93E4-466B-BB09-2AC6709891E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A01BDCB-93E4-466B-BB09-2AC6709891E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A01BDCB-93E4-466B-BB09-2AC6709891E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CF3F8C-BAE6-4206-A4B7-F6325A6349ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CF3F8C-BAE6-4206-A4B7-F6325A6349ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CF3F8C-BAE6-4206-A4B7-F6325A6349ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CF3F8C-BAE6-4206-A4B7-F6325A6349ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82CD64E-0E46-4719-8665-65767B91465E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82CD64E-0E46-4719-8665-65767B91465E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82CD64E-0E46-4719-8665-65767B91465E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82CD64E-0E46-4719-8665-65767B91465E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D9BDD8-9158-4034-8B34-8546AD5B6448}
+	EndGlobalSection
+EndGlobal
